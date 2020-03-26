@@ -2,5 +2,5 @@
 
 Corona Virus Tracker App built with Flutter and Json API
 
-![]Screenshot_1584038676.png
+![](screenshot/Screenshot_1584038676.png)
 
