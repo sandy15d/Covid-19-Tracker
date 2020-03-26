@@ -1,5 +1,6 @@
 # covid_19
 
-A new Flutter project.
+Corona Virus Tracker App built with Flutter and Json API
 
+![]Screenshot_1584038676.png
 
